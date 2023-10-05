@@ -1,0 +1,6 @@
+pillow
+numpy
+lxml
+RPi.GPIO
+spidev
+svglib
